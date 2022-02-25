@@ -1,0 +1,23 @@
+body {
+    background: lightslategrey;
+    font-size: 150%;
+}
+
+#head-div {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.chapter-name {
+    font-style: italic;
+}
+
+.chapter {
+    padding-left: 2em;
+    padding-right: 1em;
+    font-size: 1.25em;
+}
+
+.chapter > p {
+    text-align: justify;
+}
