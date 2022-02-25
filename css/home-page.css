@@ -9,3 +9,13 @@ body {
     padding-left:1em;
     font-style: italic;
 }
+li {
+    vertical-align: center;
+}
+li div {
+    vertical-align:;
+}
+li img {
+    width: 200px;
+    height: 200px;
+}
